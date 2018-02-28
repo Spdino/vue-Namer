@@ -1,6 +1,5 @@
 # vue-Namer
 ## 变量命名器
-***
 
     * 项目需要引入你自己的百度API的`appid`和`key` 
     * 在`mianContent.vue`文件中添加即可
