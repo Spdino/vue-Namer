@@ -36,8 +36,8 @@
         fromValue: '',
         toValue: '',
         loading: false,
-        appid: '20180205000121130',
-        key: 'ATWIjnp2xv2tnS8V6uPu',
+        appid: '',  //添加你自己百度翻译API的appid
+        key: '',    //添加你自己百度翻译API的key
         Type: 'Camel'
       }
     },
